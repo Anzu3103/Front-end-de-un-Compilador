@@ -1,5 +1,5 @@
 # Front-end-de-un-Compilador
-Proyecto final de la materia de Compiladores
+Proyecto* final de la materia de Compiladores
 
 Cuenta con los siguientes documentos:
 - Gramática del lenguaje
@@ -14,3 +14,5 @@ Este compilador (front end) se conforma en tres partes:
   - analizador léxico (funcional 100%)
   - analizador sintáctico (funcional 100%)
   - analizador semántico (funcional 60%)
+
+*Proyecto realizado en equipo
