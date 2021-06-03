@@ -10,9 +10,9 @@ Cuenta con los siguientes documentos:
 
 También se adjuntan el código implementado para su funcionamiento.
 
-Este compilador (front end) se conforma en tres partes:
+Este compilador (front end) se conforma en estas fases:
   - analizador léxico (funcional 100%)
   - analizador sintáctico (funcional 100%)
-  - analizador semántico (funcional 60%)
+  - analizador semántico y generación de código intermedio (funcional 60%)
 
 *Proyecto realizado en equipo
